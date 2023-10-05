@@ -1,8 +1,12 @@
-# 💫 About Me:
-I'm currently learning Nestjs, AWS, Microservices<br>Ask me about Reactjs, Nodejs, Postgres
+# Hi, My name is Saroj Dahal. I am a software developer from Nepal
+
+👉 I'm currently exploring new Technology on software developement<br>
+👉 I'm currently learning Nestjs, AWS, Microservices<br>
+👉 Ask me about Reactjs, Nodejs, Postgres<br>
+👉 I love playing cricket<br>
 
 
-## 🌐 Socials:
+## **⚡** Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sd8848) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sarojda13950418) 
 
 # 💻 Tech Stack:
